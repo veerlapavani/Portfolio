@@ -56,7 +56,7 @@ export const projects: Project[] = [
     description: 'Portfolio website showcasing my projects, skills, and experiences. Built with React and Tailwind CSS.',
     image: PRO,
     tags: ['React', 'TypeScript', 'Tailwind CSS'],
-    repoUrl: 'https://github.com/yourusername/dashboard',
+    repoUrl: 'https://github.com/veerlapavani/Portfolio.git',
     featured: true,
   }
 ];
