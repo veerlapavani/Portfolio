@@ -2,7 +2,7 @@ import { Project, Skill, SocialLink, Experience, Education } from '../types';
 import PET from '../assests/Petstore.png';
 import CODE from '../assests/Code.png';
 import HMS from '../assests/hms.png';
-import portfolioImage from '../assets/portfolio.png';
+import portfolioImage from '../assests/portfolio.png';
 
 export const socialLinks: SocialLink[] = [
   {
