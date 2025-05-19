@@ -2,7 +2,7 @@ import { Project, Skill, SocialLink, Experience, Education } from '../types';
 import PET from '../assests/Petstore.png';
 import CODE from '../assests/Code.png';
 import HMS from '../assests/hms.png';
-import PRO from '../assests/portfolio.png';
+import portfolioImage from '../assets/portfolio.png';
 
 export const socialLinks: SocialLink[] = [
   {
@@ -54,7 +54,7 @@ export const projects: Project[] = [
     id: 4,
     title: 'Portfolio Website',
     description: 'Portfolio website showcasing my projects, skills, and experiences. Built with React and Tailwind CSS.',
-    image: PRO,
+    image: portfolioImage,
     tags: ['React', 'TypeScript', 'Tailwind CSS'],
     repoUrl: 'https://github.com/veerlapavani/Portfolio.git',
     featured: true,
